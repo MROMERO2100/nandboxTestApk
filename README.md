@@ -6,7 +6,8 @@ Two APK build in https://nandbox.com/ for testing
 
 # This is the First App.
 The idea here is to create a social network for a pet adoption center. Where you can see in the feeds information about the pets that you can adopt, also have a Donations section, where you can donate from the stories to donate to a specific pet or in general to the adoption center
-![image](https://github.com/MROMERO2100/nandboxTestApk/QRAppOne.png)
+
+![image](https://github.com/MROMERO2100/nandboxTestApk/assets/40069878/0a641300-6d9d-4c3b-be9e-8b59e75c9222)
 
 # This is the Second App.
 The idea here was to make an app where we could keep a diary of our pets, and be able to have the entire record from an App. This app didn't turn out well at all, I found it a little difficult to use nandbox. But this was the idea:
